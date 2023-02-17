@@ -1,0 +1,12 @@
+- Exercise Vs Problems
+- A good problem is mysterious & interesting.
+- Inexperienced Problem Solver:
+	- Don't know how to begin.
+	- make initial Progress , but can't Proceed further.
+	- after trying few things, Give Up.
+- An Experienced Problem Solver operates on three different level :
+	- Strategy: How to Start with mathematical & psychological idea.
+	- Tactics: Diverse Mathematical methods that work in many different Configs.
+	- Tools: Narrowly focused techniques & " tricks" for specific situations.
+-
+-
