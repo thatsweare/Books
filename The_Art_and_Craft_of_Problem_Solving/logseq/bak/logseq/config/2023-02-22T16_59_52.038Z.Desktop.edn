@@ -22,7 +22,7 @@
 
  ;; Whether to enable hover on tooltip preview feature
  ;; Default is true, you can also toggle this via setting page
- :ui/enable-tooltip? true
+ :ui/enable-tooltip? false
 
  :feature/enable-block-timestamps? false
 
@@ -172,6 +172,12 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
+ :editor/logical-outdenting? false
+ :favorites ["The Art & Craft of Problem Solving"]
+ :feature/enable-journals? false
+ :feature/enable-flashcards? false
+ :ui/show-full-blocks? true
+ :editor/preferred-pasting-file? true
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

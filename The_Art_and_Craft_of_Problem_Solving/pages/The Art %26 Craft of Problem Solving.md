@@ -1,2 +1,2 @@
-- Chapter 1: [[What this Book Is All About & How to read it]]
+- Chapter 1: [[1. What this Book Is All About & How to read it]]
 -
